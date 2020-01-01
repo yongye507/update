@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bob.acce</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>全民加速下载</string>
+				<string>全民加速</string>
 			</dict>
 		</dict>
 	</array>
