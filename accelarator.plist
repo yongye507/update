@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bob.acce</string>
+				<string>com.bob.star</string>
 				<key>bundle-version</key>
 				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>全民加速</string>
+				<string>明日之星</string>
 			</dict>
 		</dict>
 	</array>
